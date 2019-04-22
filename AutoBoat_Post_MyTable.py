@@ -1,3 +1,6 @@
+# First testing file to send events from Raspberry Pi to AWS web service
+# Writtem in Pyton Python 3.5
+
 # importing the requests library
 import requests
 import datetime
