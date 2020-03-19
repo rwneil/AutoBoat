@@ -9,7 +9,7 @@ import datetime
 API_ENDPOINT = "https://qo8k2n8335.execute-api.us-west-1.amazonaws.com/Production/"
 
 # your API key here
-API_KEY = "XXXXXXXXXXXXXXXXX"
+API_KEY = "1Z9zf9dOQ95mvhY5ozsPD7UnO9siPNwgMhFKJwXe"
 
 # Generate Unique Key
 source = 'AutoBoat001'
